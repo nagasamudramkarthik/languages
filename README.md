@@ -1,1 +1,2 @@
-# languages
+Our project is based up on breaking of  linguistic barriers that exists between the people who come from different regions. all over india.many students come from all over india to reputated colleges like IITs,NITs,BITs they need to know atleast hindi or english to communicate with others.so our website provides the necessary videos and quizzes for improving their language skills.
+NOTE:ALL THE IMAGES ARE TAKEN FROM INTERNET.
